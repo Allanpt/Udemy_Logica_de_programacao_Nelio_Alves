@@ -38,3 +38,13 @@ EX:
 
 ## Casting
 .é a mesma coisa do que na C
+
+## Entrada de dados
+.'cin >>' -> é o comando 'leia' de entrada de dados
+.'getline(cin,valor)' -> é usado para a entrada de dados de strings
+.quando usamos o 'getline' precisamos limpar o lixo de memória sempre que utilizamos ele usando:
+
+    cin.ignore(INT_MAX, '\n');
+
+## Estruturas de controle - Condicionais, repetitivas e Arranjos
+.iguais ao da linguagem C
