@@ -27,7 +27,7 @@ int main()
     x1 = (-b + sqrt(delta) / (2*a));
     x2 = (-b - sqrt(delta) / (2*a));
 
-    if (delta < 0)
+    if (delta < 0 || a == 0)
     {
         printf("\nEsta equacao nao possui raizes reais");
     }else {

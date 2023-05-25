@@ -43,7 +43,7 @@ int main()
     printf("Idade: ");
     scanf("%d", &idade2);
 
-    media_idade = (idade1 + idade2) / 2;
+    media_idade = (double)(idade1 + idade2) / 2;
 
     printf("A idade media de %s e %s eh de %.1lf anos", nome1, nome2, media_idade);
 
