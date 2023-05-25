@@ -104,6 +104,17 @@ foi utilzado o método de limpeza de buffer como em outras linguagens como C e C
 
 foi utilizado um fechamento do método 'scanner' no final do código
 
+## Vetores
+
+    double[] vet = new double[N];
+
+.perceba que temos que declarar primeiro o tipo do vetor - "double" - o nome do vetor - 'vet' - e escrever 'new' mais o tipo[variável];.
+
+## Matrizes
+    
+    int[][] mat = new int[M][N];
+
+.perceba que temos que declarar o tipo, dois colchetes - [][] - o nome r o 'new' mais o tipo[variável][variável];
     
 
 
