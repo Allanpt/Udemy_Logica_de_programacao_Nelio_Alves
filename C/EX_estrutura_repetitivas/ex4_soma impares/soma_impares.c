@@ -15,7 +15,7 @@ int main()
 
     if (num1 < num2){
         for ( i = num1+1; i < num2; i++){
-            if (i % 2 == 1){
+            if (i % 2 != 0){
                 soma = soma + i;
             }
         }
@@ -23,7 +23,7 @@ int main()
 
     if (num1 > num2){
         for ( i = num1-1; i > num2; i--){
-            if (i % 2 == 1 || i % 2 == -1){
+            if (i % 2 != 0){
                 soma = soma + i;
             }
         }
