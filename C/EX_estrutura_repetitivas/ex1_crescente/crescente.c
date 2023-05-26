@@ -32,7 +32,6 @@ int main()
             printf("\nCRESCENTE!\n");
             printf("Digite outros dois numeros:\n");
         } 
-        
     } while (num1<num2 || num1>num2);
 
     return 0;
