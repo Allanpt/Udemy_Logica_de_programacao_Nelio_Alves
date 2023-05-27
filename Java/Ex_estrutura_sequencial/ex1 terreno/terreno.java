@@ -7,10 +7,10 @@ PERIMETRO = 18.0000
 DIAGONAL = 6.4031 
  */
 
-package ex1_terreno;
+
 import java.util.Scanner; /*Biblioteca leia */
 import java.util.Locale;  /*Biblioteca de separar a fração em ponto '.' */
-import java.lang.Math;
+import java.lang.Math; /* Bibliteca da classe Math */
 
 public class terreno {
 
