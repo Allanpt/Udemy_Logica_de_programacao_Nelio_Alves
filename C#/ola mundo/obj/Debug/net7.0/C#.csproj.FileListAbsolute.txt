@@ -1,0 +1,30 @@
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\bin\Debug\net7.0\C#.exe
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\bin\Debug\net7.0\C#.deps.json
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\bin\Debug\net7.0\C#.runtimeconfig.json
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\bin\Debug\net7.0\C#.dll
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\bin\Debug\net7.0\C#.pdb
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\obj\Debug\net7.0\C#.csproj.AssemblyReference.cache
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\obj\Debug\net7.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\obj\Debug\net7.0\C#.AssemblyInfoInputs.cache
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\obj\Debug\net7.0\C#.AssemblyInfo.cs
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\obj\Debug\net7.0\C#.csproj.CoreCompileInputs.cache
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\obj\Debug\net7.0\C#.dll
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\obj\Debug\net7.0\refint\C#.dll
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\obj\Debug\net7.0\C#.pdb
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\obj\Debug\net7.0\C#.genruntimeconfig.cache
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\obj\Debug\net7.0\ref\C#.dll
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\ola mundo\bin\Debug\net7.0\C#.exe
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\ola mundo\bin\Debug\net7.0\C#.deps.json
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\ola mundo\bin\Debug\net7.0\C#.runtimeconfig.json
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\ola mundo\bin\Debug\net7.0\C#.dll
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\ola mundo\bin\Debug\net7.0\C#.pdb
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\ola mundo\obj\Debug\net7.0\C#.csproj.AssemblyReference.cache
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\ola mundo\obj\Debug\net7.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\ola mundo\obj\Debug\net7.0\C#.AssemblyInfoInputs.cache
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\ola mundo\obj\Debug\net7.0\C#.AssemblyInfo.cs
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\ola mundo\obj\Debug\net7.0\C#.csproj.CoreCompileInputs.cache
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\ola mundo\obj\Debug\net7.0\C#.dll
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\ola mundo\obj\Debug\net7.0\refint\C#.dll
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\ola mundo\obj\Debug\net7.0\C#.pdb
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\ola mundo\obj\Debug\net7.0\C#.genruntimeconfig.cache
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\ola mundo\obj\Debug\net7.0\ref\C#.dll
