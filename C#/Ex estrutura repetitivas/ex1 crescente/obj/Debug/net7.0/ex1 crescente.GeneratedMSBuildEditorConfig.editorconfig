@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = C_
-build_property.ProjectDir = c:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\ola mundo\
+build_property.RootNamespace = ex1_crescente
+build_property.ProjectDir = C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex estrutura repetitivas\ex1 crescente\

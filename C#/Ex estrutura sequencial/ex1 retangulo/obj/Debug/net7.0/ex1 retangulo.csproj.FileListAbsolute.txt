@@ -1,0 +1,15 @@
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex estrutura sequencial\ex1 retangulo\obj\Debug\net7.0\ex1 retangulo.csproj.AssemblyReference.cache
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex estrutura sequencial\ex1 retangulo\obj\Debug\net7.0\ex1 retangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex estrutura sequencial\ex1 retangulo\obj\Debug\net7.0\ex1 retangulo.AssemblyInfoInputs.cache
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex estrutura sequencial\ex1 retangulo\obj\Debug\net7.0\ex1 retangulo.AssemblyInfo.cs
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex estrutura sequencial\ex1 retangulo\obj\Debug\net7.0\ex1 retangulo.csproj.CoreCompileInputs.cache
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex estrutura sequencial\ex1 retangulo\bin\Debug\net7.0\ex1 retangulo.exe
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex estrutura sequencial\ex1 retangulo\bin\Debug\net7.0\ex1 retangulo.deps.json
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex estrutura sequencial\ex1 retangulo\bin\Debug\net7.0\ex1 retangulo.runtimeconfig.json
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex estrutura sequencial\ex1 retangulo\bin\Debug\net7.0\ex1 retangulo.dll
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex estrutura sequencial\ex1 retangulo\bin\Debug\net7.0\ex1 retangulo.pdb
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex estrutura sequencial\ex1 retangulo\obj\Debug\net7.0\ex1 retangulo.dll
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex estrutura sequencial\ex1 retangulo\obj\Debug\net7.0\refint\ex1 retangulo.dll
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex estrutura sequencial\ex1 retangulo\obj\Debug\net7.0\ex1 retangulo.pdb
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex estrutura sequencial\ex1 retangulo\obj\Debug\net7.0\ex1 retangulo.genruntimeconfig.cache
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex estrutura sequencial\ex1 retangulo\obj\Debug\net7.0\ref\ex1 retangulo.dll

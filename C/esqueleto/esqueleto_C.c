@@ -1,6 +1,7 @@
-#include/*Biblioteca*/<stdio.h>
+#include<stdio.h>
+#include<math.h>
 
-int main() { /*Enter point: onde o programa irá começar*/
+int main() { 
 
-    return 0; /*Para informar se irá ocorrer um erro*/
+    return 0; 
 }

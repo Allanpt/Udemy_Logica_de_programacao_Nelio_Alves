@@ -1,0 +1,15 @@
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\EX estrutura condicional\ex1 menorde3\bin\Debug\net7.0\ex1 menorde3.exe
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\EX estrutura condicional\ex1 menorde3\bin\Debug\net7.0\ex1 menorde3.deps.json
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\EX estrutura condicional\ex1 menorde3\bin\Debug\net7.0\ex1 menorde3.runtimeconfig.json
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\EX estrutura condicional\ex1 menorde3\bin\Debug\net7.0\ex1 menorde3.dll
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\EX estrutura condicional\ex1 menorde3\bin\Debug\net7.0\ex1 menorde3.pdb
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\EX estrutura condicional\ex1 menorde3\obj\Debug\net7.0\ex1 menorde3.csproj.AssemblyReference.cache
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\EX estrutura condicional\ex1 menorde3\obj\Debug\net7.0\ex1 menorde3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\EX estrutura condicional\ex1 menorde3\obj\Debug\net7.0\ex1 menorde3.AssemblyInfoInputs.cache
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\EX estrutura condicional\ex1 menorde3\obj\Debug\net7.0\ex1 menorde3.AssemblyInfo.cs
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\EX estrutura condicional\ex1 menorde3\obj\Debug\net7.0\ex1 menorde3.csproj.CoreCompileInputs.cache
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\EX estrutura condicional\ex1 menorde3\obj\Debug\net7.0\ex1 menorde3.dll
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\EX estrutura condicional\ex1 menorde3\obj\Debug\net7.0\refint\ex1 menorde3.dll
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\EX estrutura condicional\ex1 menorde3\obj\Debug\net7.0\ex1 menorde3.pdb
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\EX estrutura condicional\ex1 menorde3\obj\Debug\net7.0\ex1 menorde3.genruntimeconfig.cache
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\EX estrutura condicional\ex1 menorde3\obj\Debug\net7.0\ref\ex1 menorde3.dll

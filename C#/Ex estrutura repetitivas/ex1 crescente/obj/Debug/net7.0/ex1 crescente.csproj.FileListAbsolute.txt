@@ -1,0 +1,15 @@
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex estrutura repetitivas\ex1 crescente\bin\Debug\net7.0\ex1 crescente.exe
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex estrutura repetitivas\ex1 crescente\bin\Debug\net7.0\ex1 crescente.deps.json
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex estrutura repetitivas\ex1 crescente\bin\Debug\net7.0\ex1 crescente.runtimeconfig.json
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex estrutura repetitivas\ex1 crescente\bin\Debug\net7.0\ex1 crescente.dll
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex estrutura repetitivas\ex1 crescente\bin\Debug\net7.0\ex1 crescente.pdb
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex estrutura repetitivas\ex1 crescente\obj\Debug\net7.0\ex1 crescente.csproj.AssemblyReference.cache
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex estrutura repetitivas\ex1 crescente\obj\Debug\net7.0\ex1 crescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex estrutura repetitivas\ex1 crescente\obj\Debug\net7.0\ex1 crescente.AssemblyInfoInputs.cache
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex estrutura repetitivas\ex1 crescente\obj\Debug\net7.0\ex1 crescente.AssemblyInfo.cs
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex estrutura repetitivas\ex1 crescente\obj\Debug\net7.0\ex1 crescente.csproj.CoreCompileInputs.cache
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex estrutura repetitivas\ex1 crescente\obj\Debug\net7.0\ex1 crescente.dll
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex estrutura repetitivas\ex1 crescente\obj\Debug\net7.0\refint\ex1 crescente.dll
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex estrutura repetitivas\ex1 crescente\obj\Debug\net7.0\ex1 crescente.pdb
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex estrutura repetitivas\ex1 crescente\obj\Debug\net7.0\ex1 crescente.genruntimeconfig.cache
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex estrutura repetitivas\ex1 crescente\obj\Debug\net7.0\ref\ex1 crescente.dll

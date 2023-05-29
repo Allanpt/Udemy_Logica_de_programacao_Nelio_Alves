@@ -1,0 +1,15 @@
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex estrutura repetitivas\ex2 soma impares\bin\Debug\net7.0\ex2 soma impares.exe
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex estrutura repetitivas\ex2 soma impares\bin\Debug\net7.0\ex2 soma impares.deps.json
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex estrutura repetitivas\ex2 soma impares\bin\Debug\net7.0\ex2 soma impares.runtimeconfig.json
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex estrutura repetitivas\ex2 soma impares\bin\Debug\net7.0\ex2 soma impares.dll
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex estrutura repetitivas\ex2 soma impares\bin\Debug\net7.0\ex2 soma impares.pdb
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex estrutura repetitivas\ex2 soma impares\obj\Debug\net7.0\ex2 soma impares.csproj.AssemblyReference.cache
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex estrutura repetitivas\ex2 soma impares\obj\Debug\net7.0\ex2 soma impares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex estrutura repetitivas\ex2 soma impares\obj\Debug\net7.0\ex2 soma impares.AssemblyInfoInputs.cache
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex estrutura repetitivas\ex2 soma impares\obj\Debug\net7.0\ex2 soma impares.AssemblyInfo.cs
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex estrutura repetitivas\ex2 soma impares\obj\Debug\net7.0\ex2 soma impares.csproj.CoreCompileInputs.cache
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex estrutura repetitivas\ex2 soma impares\obj\Debug\net7.0\ex2 soma impares.dll
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex estrutura repetitivas\ex2 soma impares\obj\Debug\net7.0\refint\ex2 soma impares.dll
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex estrutura repetitivas\ex2 soma impares\obj\Debug\net7.0\ex2 soma impares.pdb
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex estrutura repetitivas\ex2 soma impares\obj\Debug\net7.0\ex2 soma impares.genruntimeconfig.cache
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex estrutura repetitivas\ex2 soma impares\obj\Debug\net7.0\ref\ex2 soma impares.dll
