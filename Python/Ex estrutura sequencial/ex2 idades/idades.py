@@ -19,4 +19,4 @@ idade2 = int(input("Idade: "))
 
 media = (idade1 + idade2) / 2
 
-print(f"A idade média de {nome1} e {nome2} é de {media} anos")
+print(f"A idade média de {nome1} e {nome2} é de {media:.1f} anos")
