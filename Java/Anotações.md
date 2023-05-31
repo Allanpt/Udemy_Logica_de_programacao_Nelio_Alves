@@ -114,7 +114,7 @@ foi utilizado um fechamento do método 'scanner' no final do código
     
     int[][] mat = new int[M][N];
 
-.perceba que temos que declarar o tipo, dois colchetes - [][] - o nome r o 'new' mais o tipo[variável][variável];
+.perceba que temos que declarar o tipo, dois colchetes - [][] - o nome - mat- o 'new' mais o tipo[variável][variável];
     
 
 

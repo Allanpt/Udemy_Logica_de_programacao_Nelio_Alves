@@ -1,0 +1,15 @@
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex vetores\ex1 soma vetor\bin\Debug\net7.0\ex1 soma vetor.exe
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex vetores\ex1 soma vetor\bin\Debug\net7.0\ex1 soma vetor.deps.json
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex vetores\ex1 soma vetor\bin\Debug\net7.0\ex1 soma vetor.runtimeconfig.json
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex vetores\ex1 soma vetor\bin\Debug\net7.0\ex1 soma vetor.dll
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex vetores\ex1 soma vetor\bin\Debug\net7.0\ex1 soma vetor.pdb
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex vetores\ex1 soma vetor\obj\Debug\net7.0\ex1 soma vetor.csproj.AssemblyReference.cache
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex vetores\ex1 soma vetor\obj\Debug\net7.0\ex1 soma vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex vetores\ex1 soma vetor\obj\Debug\net7.0\ex1 soma vetor.AssemblyInfoInputs.cache
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex vetores\ex1 soma vetor\obj\Debug\net7.0\ex1 soma vetor.AssemblyInfo.cs
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex vetores\ex1 soma vetor\obj\Debug\net7.0\ex1 soma vetor.csproj.CoreCompileInputs.cache
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex vetores\ex1 soma vetor\obj\Debug\net7.0\ex1 soma vetor.dll
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex vetores\ex1 soma vetor\obj\Debug\net7.0\refint\ex1 soma vetor.dll
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex vetores\ex1 soma vetor\obj\Debug\net7.0\ex1 soma vetor.pdb
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex vetores\ex1 soma vetor\obj\Debug\net7.0\ex1 soma vetor.genruntimeconfig.cache
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\Ex vetores\ex1 soma vetor\obj\Debug\net7.0\ref\ex1 soma vetor.dll
