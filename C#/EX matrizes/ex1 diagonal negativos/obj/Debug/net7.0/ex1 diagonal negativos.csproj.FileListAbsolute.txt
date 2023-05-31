@@ -1,0 +1,15 @@
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\EX matrizes\ex1 diagonal negativos\obj\Debug\net7.0\ex1 diagonal negativos.csproj.AssemblyReference.cache
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\EX matrizes\ex1 diagonal negativos\obj\Debug\net7.0\ex1 diagonal negativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\EX matrizes\ex1 diagonal negativos\obj\Debug\net7.0\ex1 diagonal negativos.AssemblyInfoInputs.cache
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\EX matrizes\ex1 diagonal negativos\obj\Debug\net7.0\ex1 diagonal negativos.AssemblyInfo.cs
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\EX matrizes\ex1 diagonal negativos\obj\Debug\net7.0\ex1 diagonal negativos.csproj.CoreCompileInputs.cache
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\EX matrizes\ex1 diagonal negativos\bin\Debug\net7.0\ex1 diagonal negativos.exe
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\EX matrizes\ex1 diagonal negativos\bin\Debug\net7.0\ex1 diagonal negativos.deps.json
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\EX matrizes\ex1 diagonal negativos\bin\Debug\net7.0\ex1 diagonal negativos.runtimeconfig.json
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\EX matrizes\ex1 diagonal negativos\bin\Debug\net7.0\ex1 diagonal negativos.dll
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\EX matrizes\ex1 diagonal negativos\bin\Debug\net7.0\ex1 diagonal negativos.pdb
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\EX matrizes\ex1 diagonal negativos\obj\Debug\net7.0\ex1 diagonal negativos.dll
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\EX matrizes\ex1 diagonal negativos\obj\Debug\net7.0\refint\ex1 diagonal negativos.dll
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\EX matrizes\ex1 diagonal negativos\obj\Debug\net7.0\ex1 diagonal negativos.pdb
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\EX matrizes\ex1 diagonal negativos\obj\Debug\net7.0\ex1 diagonal negativos.genruntimeconfig.cache
+C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\EX matrizes\ex1 diagonal negativos\obj\Debug\net7.0\ref\ex1 diagonal negativos.dll

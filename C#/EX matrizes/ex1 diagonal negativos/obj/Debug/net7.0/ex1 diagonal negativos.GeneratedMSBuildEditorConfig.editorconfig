@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ex1_diagonal_negativos
+build_property.ProjectDir = C:\Projetos VS CODE\Aprendizado\Udemy Lógica de Programação Nelio Alves\Udemy_Logica_de_programacao_Nelio_Alves\C#\EX matrizes\ex1 diagonal negativos\
