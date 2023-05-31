@@ -32,14 +32,17 @@ namespace soma_vetor {
                 System.Console.Write("Digite um numero: ");
                 vet[i] = double.Parse(Console.ReadLine(), CI);
             }
-            
+
+            System.Console.WriteLine();
             System.Console.Write("VALORES = ");
+
             for (int i = 0; i < n; i++)
             {
                 System.Console.Write(vet[i].ToString("F1", CI) + " ");                
             }
 
             System.Console.WriteLine();
+            
             for (int i = 0; i < n; i++)
             {
                 soma_vetor = soma_vetor + vet[i];

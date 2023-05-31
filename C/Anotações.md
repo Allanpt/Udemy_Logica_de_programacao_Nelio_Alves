@@ -131,3 +131,15 @@ Ex:
 
 .para todo caractere isso vai ser necessário
 .o primeiro caractere não precisa ser limpado
+
+## Vetores
+
+    double vet[N];
+
+.tipo_do_vetor nome[valores_do_vetor]
+
+## Matriz
+
+    int mat[M][N];
+
+.tipo_da_matriz nome[valores_das_linhas][valores_das_colunas]
